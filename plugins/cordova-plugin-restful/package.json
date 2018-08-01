@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-restful",
+      "/home/jake/Project/cordova/client"
+    ]
+  ],
+  "_from": "cordova-plugin-restful@latest",
+  "_id": "cordova-plugin-restful@0.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-restful",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-restful-0.0.4.tgz_1500998861212_0.20502436719834805"
+  },
+  "_npmUser": {
+    "email": "yajuve.25.dz@gmail.com",
+    "name": "yajuve"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-restful",
+    "raw": "cordova-plugin-restful",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-restful/-/cordova-plugin-restful-0.0.4.tgz",
+  "_shasum": "fbd82b3bfb89040929b61b22cc84ac862a8c58f4",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-restful",
+  "_where": "/home/jake/Project/cordova/client",
+  "author": {
+    "name": "K.Mohamed Raouf"
+  },
+  "bugs": {
+    "url": "https://github.com/yajuve/cordova-plugin-RESTful/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-restful",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Use RESTful api with your cordova, ionic project",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fbd82b3bfb89040929b61b22cc84ac862a8c58f4",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-restful/-/cordova-plugin-restful-0.0.4.tgz"
+  },
+  "gitHead": "c3833845388d426b3d17cd0d3ccffaae24b036b4",
+  "homepage": "https://github.com/yajuve/cordova-plugin-restful.git#readme",
+  "keywords": [
+    "RESTful",
+    "api",
+    "cordova-android",
+    "ecosystem:cordova"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "yajuve",
+      "email": "yajuve.25.dz@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-restful",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yajuve/cordova-plugin-RESTful.git"
+  },
+  "scripts": {},
+  "version": "0.0.4"
+}
